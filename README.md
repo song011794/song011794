@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=350&text=Wellcome&desc=YD_S%27s%20github%20profile&type=waving&color=gradient&descAlign=62&animation=fadeIn)
 
-![song011794's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![YD_S's github stats](https://github-readme-stats.vercel.app/api?username=song011794&show_icons=true)
 
 <!--
 ### Hi there 👋
