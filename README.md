@@ -3,7 +3,7 @@
  <div align=center> 
  
  ![YD_S's github stats](https://github-readme-stats.vercel.app/api?username=song011794&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song011794&show_icons=true)](https://github.com/metleeha)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song011794&show_icons=true&layout=compat)](https://github.com/metleeha)
  
 </div>
 
