@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=350&text=YD_S's%20Profile&desc=즐기며%20개발하자&type=waving&color=gradient&descAlign=62&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?height=350&text=YD_S's%20Profile&desc=즐기며%20개발하자&type=waving&color=gradient&descAlign=70&animation=fadeIn)
 
 
 <div align=center>
