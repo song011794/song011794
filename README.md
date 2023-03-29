@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/song011794/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=song011794&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=song011794&show_icons=true" />
 </a>
 <a href="https://github.com/song011794/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=song011794&repo=convoychat" />
