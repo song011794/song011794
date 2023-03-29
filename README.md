@@ -11,12 +11,17 @@
  </br>
  BackEnd도 관심이 있어 꾸준히 공부하고 있습니다.
  
+ </br>
+ ✉️ Email 
+ </br>
+ sos9493@gmail.com
+ 
  
  <div align=center>
  
  </br>
  
- 🔥 Main Tech Stack
+ 🔥 Main Tech Stack 
  
   
  ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white&style=for-the-badge)
@@ -27,7 +32,7 @@
  
   </br>
 
- 🌈 Sub Tech Stack
+ 🌈 Sub Tech Stack 
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
