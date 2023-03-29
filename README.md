@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?height=350&text=Wellcome&desc=YD_S%27s%20github%20profile&type=waving&color=gradient&descAlign=62&animation=fadeIn)
 
+![song011794's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+
 <!--
 ### Hi there 👋
 **song011794/song011794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
