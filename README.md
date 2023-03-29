@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=350&text=wellcome&desc=YD_S%27s%20github%20profile&type=waving&color=gradient&descAlign=62&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?height=350&text=Wellcome&desc=YD_S%27s%20github%20profile&type=waving&color=gradient&descAlign=62&animation=fadeIn)
 
 <!--
 ### Hi there 👋
