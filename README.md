@@ -39,8 +39,33 @@
  
   ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge)
  ![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs&logoColor=white&style=for-the-badge)
+
+
+
+ </br>
  
+ 🕹️ Severless
+ 
+ ![AWS Lambda](https://img.shields.io/badge/aws%20lambda-blueviolet?logo=awslambda&logoColor=white&style=for-the-badge)
+ ![AWS RDS](https://img.shields.io/badge/aws%20rds-critical?logo=amazonrds&logoColor=white&style=for-the-badge)
+ 
+ ![AWS API GATEWAY](https://img.shields.io/badge/aws%20api%20gateway-lightgrey?logo=amazonapigateway&logoColor=white&style=for-the-badge)
+  
+ </br>
+
+ 💾 DataBase
+ 
+  ![MSSQL](https://img.shields.io/badge/MSsql-pink?logo=microsoftsqlserver&logoColor=red&style=for-the-badge)
+ ![MySQL](https://img.shields.io/badge/Mysql-9cf?logo=mysql&logoColor=blue&style=for-the-badge)
+ 
+ ![PostgreSQL](https://img.shields.io/badge/postgresql-blue?logo=postgresql&logoColor=white&style=for-the-badge)
+ ![MongoDB](https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white&style=for-the-badge)
+
+ 
+
  </div>
+ 
+
  
 
  
