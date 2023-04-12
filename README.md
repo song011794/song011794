@@ -9,7 +9,7 @@
  </br>
  Android(Native)로 시작하여 현재 Flutter 개발자가 되었답니다.😎
  </br>
- BackEnd도 관심이 있어 꾸준히 공부하고 있습니다.
+ BackEnd도 관심이 있어 꾸준히 학습하고 있습니다.
  
  </br>
  ✉️ Email 
