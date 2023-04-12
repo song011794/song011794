@@ -46,11 +46,14 @@
  
  🕹️ Severless
  
- ![AWS API GATEWAY](https://img.shields.io/badge/aws%20api%20gateway-lightgrey?logo=amazonapigateway&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-yellow?logo=firebase&logoColor=white&style=for-the-badge)
+
+![AWS API GATEWAY](https://img.shields.io/badge/aws%20api%20gateway-lightgrey?logo=amazonapigateway&logoColor=white&style=for-the-badge)
  
  ![AWS Lambda](https://img.shields.io/badge/aws%20lambda-blueviolet?logo=awslambda&logoColor=white&style=for-the-badge)
  ![AWS RDS](https://img.shields.io/badge/aws%20rds-critical?logo=amazonrds&logoColor=white&style=for-the-badge)
  
+
  
   
  </br>
