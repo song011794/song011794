@@ -80,7 +80,7 @@
  </br>
  </br>
  
- ![YD_S's github stats](https://github-readme-stats.vercel.app/api?username=song011794&show_icons=true&count_private=true$hide_rank=true)
+ ![YD_S's github stats](https://github-readme-stats.vercel.app/api?username=song011794&show_icons=true&count_private=true)
 
 </div>
 
