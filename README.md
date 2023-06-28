@@ -5,7 +5,7 @@
 
 안녕하세요 5년차 개발자 송영동 입니다.
 </br>
-Flutter, Android 개발을 주로 하고 있습니다.
+Flutter, Android 개발을 주로 하고 있습니다.
 
 ⭐️ [PORTFOLIO](https://massive-notify-d2b.notion.site/35c9e9efa5f34ed5957bc70d9985e387)
 </br>
