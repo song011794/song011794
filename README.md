@@ -1,3 +1,17 @@
+# 하고 싶은게 많은 개발자
+---
+
+ ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/Dart-white?logo=dart&logoColor=blue&style=flat) ![Android](https://img.shields.io/badge/Android-green?logo=android&logoColor=white&style=flat) ![Kotlin](https://img.shields.io/badge/kotlin-purple?logo=kotlin&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/firebase-yellow?logo=firebase&logoColor=white&style=flat)  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=flat) ![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs&logoColor=white&style=flat)  ![AWS API GATEWAY](https://img.shields.io/badge/aws%20api%20gateway-lightgrey?logo=amazonapigateway&logoColor=white&style=flat) ![AWS Lambda](https://img.shields.io/badge/aws%20lambda-blueviolet?logo=awslambda&logoColor=white&style=flat)
+ 
+
+
+🌱 [PORTFOLIO](https://massive-notify-d2b.notion.site/35c9e9efa5f34ed5957bc70d9985e387)
+🌱 [BLOG](https://yd-developer.tistory.com/)
+
+
+
+
+<!--
 ![header](https://capsule-render.vercel.app/api?height=350&text=YD_S's%20Profile&desc=즐기며%20개발하자&type=waving&color=gradient&descAlign=70&animation=fadeIn)
 
 
