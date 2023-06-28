@@ -6,6 +6,7 @@
 
 
 🌱 [PORTFOLIO](https://massive-notify-d2b.notion.site/35c9e9efa5f34ed5957bc70d9985e387)
+</br>
 🌱 [BLOG](https://yd-developer.tistory.com/)
 
 
